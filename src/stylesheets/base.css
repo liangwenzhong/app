@@ -1,5 +1,11 @@
 /* Resets */
 
+* {
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	-moz-tap-highlight-color: rgba(0, 0, 0, 0);
+	tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
 html, body, div, form, p, ul, li, span, label, img {
 	margin: 0;
 	padding: 0;
