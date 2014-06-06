@@ -1,9 +1,9 @@
 /* Resets */
 
 * {
-	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-	-moz-tap-highlight-color: rgba(0, 0, 0, 0);
-	tap-highlight-color: rgba(0, 0, 0, 0);
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0)!important;
+	-moz-tap-highlight-color: rgba(0, 0, 0, 0)!important;
+	tap-highlight-color: rgba(0, 0, 0, 0)!important;
 }
 
 html, body, div, form, p, ul, li, span, label, img {
